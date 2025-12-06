@@ -1,6 +1,6 @@
 {
     "bot": {
-        "token": "bottoken",
+        "token": "MTQ0Njg2MDczNDQ3Nzc2NjczNg.GfCJmD.BrhAfdKw1B7HWrNUoaeFgQZx_nj13EnBjo8tR4",
         "presence": {
             "status": "online",
             "activities": [{
@@ -48,4 +48,5 @@
         "discord": "adithyadev.blk",
         "github": "https://github.com/BLKOFFICIAL"
     }
+
 }
