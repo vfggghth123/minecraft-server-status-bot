@@ -11,9 +11,9 @@
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
-            "port": 25565,
+            "name": "SWIFTSMP",
+            "ip": "gale.pikamc.vn",
+            "port": 25018,
             "channelId": "1361757965014798526",
             "updateInterval": 30000,
             "display": {
@@ -50,3 +50,4 @@
     }
 
 }
+
