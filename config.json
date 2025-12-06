@@ -1,6 +1,6 @@
 {
     "bot": {
-        "token": "MTQ0Njg2MDczNDQ3Nzc2NjczNg.GfCJmD.BrhAfdKw1B7HWrNUoaeFgQZx_nj13EnBjo8tR4",
+        "token": "MTQ0Njg2MDczNDQ3Nzc2NjczNg.Gs1VDR.ydcJo0tlNW_0Bf-pu898q7svKov7orAgd-KZzA",
         "presence": {
             "status": "online",
             "activities": [{
@@ -14,7 +14,7 @@
             "name": "SWIFTSMP",
             "ip": "gale.pikamc.vn",
             "port": 25018,
-            "channelId": "1361757965014798526",
+            "channelId": "1206864359725469736",
             "updateInterval": 30000,
             "display": {
                 "type": "chart",
@@ -50,4 +50,5 @@
     }
 
 }
+
 
